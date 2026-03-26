@@ -20,7 +20,3 @@ Script bunu A sütununda şu şekilde yazar:
 
 ```bash
 pip install -r requirements.txt
-
-## Çalış
-
-ppython bol.py 
