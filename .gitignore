@@ -5,6 +5,3 @@ venv/
 .env
 .idea/
 .vscode/
-
-# Excel çıktıları
-cikti.xlsx
